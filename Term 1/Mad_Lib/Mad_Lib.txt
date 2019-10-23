@@ -1,0 +1,2 @@
+The Mad Lib program is what it sounds like. It is a mad lib game, that is user friendly and
+an interactive word game.

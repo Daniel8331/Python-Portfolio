@@ -1,0 +1,2 @@
+The Geometry Project program is designed to help the user with their homework, or math problems.
+But it just does all of it at once, which would be benificial for a multiple step math problem.
