@@ -1,0 +1,2 @@
+The Alarm Clock program is, well, a clock, and an alarm. 
+It is very user friendly and is accurate.

@@ -1,0 +1,10 @@
+Geometry Menu is ment to assist someone with their math homework. 
+It is able to calculate 
+
+1. Perimeter of a square
+2. Area of a square
+3. Cifcumference of a circle
+4. Area of a triangle
+5. Volume of a cube
+
+All the user has to do is submit the numbers and the program will do the rest.
